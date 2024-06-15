@@ -1,0 +1,5 @@
+streamlit
+matplotlib
+numpy
+pillow
+scikit-learn
